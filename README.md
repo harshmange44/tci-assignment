@@ -12,10 +12,10 @@
 ![POST Request](Screenshots/Screenshot%202023-10-29%20at%207.43.53%20PM.png)
 
 - Get All Eligible Employee Bonus By Date & Organizaed By Currency (GET Request)
-![POST Request](Screenshots/Screenshot%202023-10-29%20at%207.47.29%20PM.png)
+![GET All Eligible Employee Request](Screenshots/Screenshot%202023-10-29%20at%207.47.29%20PM.png)
 
 - Get All Employees with Pagination (GET Request)
-![POST Request](Screenshots/Screenshot%202023-10-29%20at%207.48.40%20PM.png)
+![GET All Employees Request](Screenshots/Screenshot%202023-10-29%20at%207.48.40%20PM.png)
 
 - Unit Test
-![POST Request](Screenshots/Screenshot%202023-10-29%20at%208.37.23%20PM.png)
+![Unit Test](Screenshots/Screenshot%202023-10-29%20at%208.37.23%20PM.png)
